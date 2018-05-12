@@ -1,0 +1,47 @@
+_repo: Treatise-on-Light--13-In-which-are-explained-the-causes-of-that-which-occurs-in-reflexion--am__14725
+_version: 0.1.0
+alternative_title: Traité de la lumière. English
+contributor:
+  translator:
+    agent_name: Thompson, Silvanus P. (Silvanus Phillips)
+    alias: Thompson, Silvanus Phillips
+    birthdate: 1851
+    deathdate: 1916
+    gutenberg_agent_id: '36308'
+    url: http://www.gutenberg.org/2009/agents/36308
+    wikipedia: http://en.wikipedia.org/wiki/Silvanus_P._Thompson
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huygens, Christiaan
+    aliases:
+    - Huyghens, Christian
+    - Zuylichem, Christian Huygens van
+    - Hugenius, Christianus
+    - Zuilichemius, Christianus Hugenius
+    - Huygens, Christianus
+    - Hugens, Christian
+    birthdate: 1629
+    deathdate: 1695
+    gutenberg_agent_id: '5648'
+    url: http://www.gutenberg.org/2009/agents/5648
+    wikipedia: http://en.wikipedia.org/wiki/Christiaan_Huygens
+description: ''
+gutenberg_issued: '2005-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14725'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Refraction, Double'
+- !lcsh 'Wave theory of light'
+title: "Treatise on Light\r\nIn which are explained the causes of that which occurs\
+  \ in reflexion, & in refraction and particularly in the strange refraction of Iceland\
+  \ crystal"
+url: http://www.gutenberg.org/ebooks/14725
